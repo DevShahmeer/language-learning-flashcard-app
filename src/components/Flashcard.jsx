@@ -5,7 +5,12 @@ function Flashcard({ flashcard }) {
     const [randomColor, setRandomColor] = useState(getRandomColor());
 
     function getRandomColor() {
-        const colors = ['#ffc947', '#42b883', '#ff6b6b', '#8a2be2', '#ff6347', '#20b2aa', '#9370db', '#1e90ff'];
+        const colors = [
+            '#ffc947', '#42b883', '#ff6b6b', '#8a2be2', '#ff6347',
+            '#20b2aa', '#9370db', '#1e90ff', '#ffc0cb', '#32cd32',
+            '#f08080', '#66cdaa', '#ba55d3', '#cd853f',
+            '#ff4500', '#00ced1', '#8b4513', '#3cb371'
+            ];
         const randomIndex = Math.floor(Math.random() * colors.length);
         return colors[randomIndex];
     }
