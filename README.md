@@ -1,7 +1,7 @@
 
 # Language Learning Flashcards App
 
-![language-learning-flashcard-app](https://github.com/DevShahmeer/lanuage-learning-flashcard-app/assets/108333592/57450d0c-a1b6-4d12-b5b6-d571bbd29eae)
+![language-learning-flashcard-app](https://github.com/DevShahmeer/language-learning-flashcard-app/assets/108333592/586ea385-5429-41c3-bf3c-ff38adc6924a)
 
 
 ## Overview
@@ -68,7 +68,7 @@ src/
 
 ## Screenshots
 
-![language-learning-flashcard-app](https://github.com/DevShahmeer/lanuage-learning-flashcard-app/assets/108333592/57450d0c-a1b6-4d12-b5b6-d571bbd29eae)
+![language-learning-flashcard-app](https://github.com/DevShahmeer/language-learning-flashcard-app/assets/108333592/586ea385-5429-41c3-bf3c-ff38adc6924a)
 
 ## Contributing
 
